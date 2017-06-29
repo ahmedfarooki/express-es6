@@ -1,4 +1,4 @@
-Class User {
+class User {
 
 }
 
