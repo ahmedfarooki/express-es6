@@ -5,7 +5,7 @@
   "main": "src/app.js",
   "author": "Ahmed Farooki",
   "license": "MIT",
-  "engine: {
+  "engines": {
     "npm" : "~8.9.1"
   },
   "scripts": {
